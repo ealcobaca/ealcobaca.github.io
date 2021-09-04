@@ -14,4 +14,4 @@ I am passionate about artificial intelligence. Since I started my undergraduate 
 
 I am currently a graduate student. Together with my advisor, we are developing a project to automate end-to-end machine learning pipelines. In addition, we intend to investigate how meta-learning can be used effectively in AutoML and develop new optimization algorithms for this purpose. This journey has been very challenging and fruitful! My research interests are machine learning, AutoML, meta-learning, optimization for machine learning, computational Mathematics, and Bioinformatics.
 
-At the end of 2020, I started as a tutor in the Data Science MBA offered by the University of São Paulo. I assist in different courses such as Machine Learning, Deep Learning, and Introduction to Data Science. Teaching is challenging, but at the same time is amazing!
+At the end of 2020, I started as a tutor in the Data Science MBA offered by the University of São Paulo. I assist in different courses such as Introduction to Data Science, Machine Learning, Statistics for Data Science, Neural Networks and Deep Architectures. Teaching is challenging, but at the same time is amazing!
