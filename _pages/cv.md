@@ -17,5 +17,5 @@ Education
 * MBA in Project Management, University of São Paulo, São Paulo 2022 (expected)
 * BSc inComputer Science, University of São Paulo, 2018
 
-You can download a PDF copy of my CV [here](/files/pdf/ealcobaca.pdf).
-<iframe src="/files/pdf/ealcobaca.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [here](/files/pdf/ealcobaca_cv.pdf).
+<iframe src="/files/pdf/ealcobaca_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
