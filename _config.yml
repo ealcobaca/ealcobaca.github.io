@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Edesio Alcobaça"
 title_separator          : "-"
 name                     : &name "Edesio Alcobaça"
-description              : &description "Data Scientist | Ph.D. candidate at Universidade de São Paulo"
+description              : &description "Data Scientist | Ph.D. candidate @ Universidade de São Paulo"
 url                      : https://ealcobaca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ealcobaca.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Edesio Alcobaça"
   avatar           : "profile.png"
-  bio              : "Data Scientist | Ph.D. candidate at Universidade de São Paulo"
+  bio              : "Data Scientist | Ph.D. candidate @ Universidade de São Paulo"
   location         : "São Paulo - Brazil"
   employer         :
   pubmed           : 
