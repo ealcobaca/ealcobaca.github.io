@@ -17,16 +17,16 @@ Education
 
 Work experience
 ===============
-### - Tutor of MBA in Data Science (2020-today) 
+### Tutor of MBA in Data Science (2020-today) 
   * University of São Paulo, São Paulo, Brazil
   * Assisting in teaching data science, statistic, machine learning, deep learning, and other related courses
 
-### - Research Assistant (2018-today)
+### Research Assistant (2018-today)
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
   * Researching and developing AutoML techniques for end-to-end machine learning pipeline design. Developing the meta-feature extractor package (pymfe) and AutoML packages.
 
-### - Research Assistant
+### Research Assistant
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
   * Developed some improvements in the meta-learning system for cancer diagnosis.
@@ -40,6 +40,16 @@ Work experience
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
   * Developed machine learning models for cancer diagnosis.
+
+Technical Skills
+================
+
+### Programming language:
+- Python, R, Java, C#, C++, C, javascript
+### Machine learning tasks:
+- supervised learning (classification, regression and multi-target), unsupervised learning (clustering, association), reinforcement learning, time series forecasting, meta-learning, transfer learning, few-shot learning, recommendation system, automated machine learning and others.
+### Other
+- Git, Linux OS, SQL
 
 You can download a PDF copy of my CV [here](/files/pdf/ealcobaca_cv.pdf).
 <iframe src="/files/pdf/ealcobaca_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
