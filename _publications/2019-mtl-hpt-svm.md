@@ -9,5 +9,3 @@ link: 'https://arxiv.org/abs/1906.01684'
 github: 'https://github.com/rgmantovani/HpTuning'
 citation: 'Mantovani, R. G., Rossi, A. L., <b>Alcobaça, E.</b>, Vanschoren, J., & de Carvalho, A. C. (2019). <i>A meta-learning recommender system for hyperparameter tuning: Predicting when tuning improves SVM classifiers</i>. <b>Information Sciences</b>, 501, 193-221.'
 ---
-
-
