@@ -55,7 +55,7 @@ Technical Skills
 - unsupervised learning (clustering, association)
 - reinforcement learning
 - time series forecasting
-- AutoML (meta-learning, transfer learning, few-shot learning, recommendation system, NAS)
+- AutoML (pipeline design, meta-learning, transfer learning, few-shot learning, NAS)
 
 ### Other
 - Git, Linux OS, SQL
