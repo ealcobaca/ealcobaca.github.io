@@ -49,8 +49,14 @@ Technical Skills
 
 ### Programming language:
 - Python, R, Java, C#, C++, C, javascript
+
 ### Machine learning tasks:
-- supervised learning (classification, regression and multi-target), unsupervised learning (clustering, association), reinforcement learning, time series forecasting, meta-learning, transfer learning, few-shot learning, recommendation system, automated machine learning and others.
+- supervised learning (classification, regression and multi-target)
+- unsupervised learning (clustering, association)
+- reinforcement learning
+- time series forecasting
+- AutoML (meta-learning, transfer learning, few-shot learning, recommendation system, NAS)
+
 ### Other
 - Git, Linux OS, SQL
 
