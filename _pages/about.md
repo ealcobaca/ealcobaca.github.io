@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br><br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=011B56&size=30&width=500&height=100&lines=Hello!;Ol%C3%A1!;%C2%A1Hola!;Ciao!;Salut!;Kia+ora!;%E3%82%84%E3%81%82;%E4%BD%A0%E5%A5%BD;Nice+to+meet+you!)](https://ealcobaca.github.io)
 
