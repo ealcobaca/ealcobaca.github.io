@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 =========
 * PhD in Computer Science and Computational Mathematics, University of São Paulo, 2023 (expected)
 * MBA in Project Management, University of São Paulo, São Paulo 2022 (expected)
 * BSc inComputer Science, University of São Paulo, 2018
+
 
 Work experience
 ===============
@@ -31,7 +33,7 @@ Work experience
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
   * Developed some improvements in the meta-learning system for cancer diagnosis.
 
-### - Visiting Researcher
+### Visiting Researcher
   * Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Porto, Portugal
   * Advisor: Prof. Dr. Carlos Soares
   * Developed a meta-learning system for recommending suitable machine learning algorithms for cancer diagnosis.
@@ -40,6 +42,7 @@ Work experience
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
   * Developed machine learning models for cancer diagnosis.
+
 
 Technical Skills
 ================
@@ -50,6 +53,7 @@ Technical Skills
 - supervised learning (classification, regression and multi-target), unsupervised learning (clustering, association), reinforcement learning, time series forecasting, meta-learning, transfer learning, few-shot learning, recommendation system, automated machine learning and others.
 ### Other
 - Git, Linux OS, SQL
+
 
 You can download a PDF copy of my CV [here](/files/pdf/ealcobaca_cv.pdf).
 <iframe src="/files/pdf/ealcobaca_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
