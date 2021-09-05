@@ -9,13 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Download my cv here.
-
 Education
 =========
 * PhD in Computer Science and Computational Mathematics, University of São Paulo, 2023 (expected)
 * MBA in Project Management, University of São Paulo, São Paulo 2022 (expected)
 * BSc inComputer Science, University of São Paulo, 2018
+
+Work experience
+===============
+### - Tutor of MBA in Data Science (2020-today) 
+  * University of São Paulo, São Paulo, Brazil
+  * Assisting in teaching data science, statistic, machine learning, deep learning, and other related courses
+
+### - Research Assistant (2018-today)
+  * University of São Paulo, Machine Learning Group, São Paulo, Brazil
+  * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
+  * Researching and developing AutoML techniques for end-to-end machine learning pipeline design. Developing the meta-feature extractor package (pymfe) and AutoML packages.
+
+### - Research Assistant
+  * University of São Paulo, Machine Learning Group, São Paulo, Brazil
+  * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
+  * Developed some improvements in the meta-learning system for cancer diagnosis.
+
+### - Visiting Researcher
+  * Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Porto, Portugal
+  * Advisor: Prof. Dr. Carlos Soares
+  * Developed a meta-learning system for recommending suitable machine learning algorithms for cancer diagnosis.
+
+### Research Assistant
+  * University of São Paulo, Machine Learning Group, São Paulo, Brazil
+  * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
+  * Developed machine learning models for cancer diagnosis.
 
 You can download a PDF copy of my CV [here](/files/pdf/ealcobaca_cv.pdf).
 <iframe src="/files/pdf/ealcobaca_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
