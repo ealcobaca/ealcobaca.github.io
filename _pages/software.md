@@ -65,14 +65,9 @@ Alchemist
 ---------
 The Alchemist uses a pool of optimization algorithms and machine learning models to search for viable glass compositions for a given glass transition temperature (Tg) value.
 
-![](/images/logo-alchemist-periodic-table.png | width=250)
+![](/images/logo-alchemist-periodic-table.png)
 
-![](/images/alchemist-example.png | width=800)
-
-![](/images/alchemist-example.png =800x)
-
-
-<img src="(/images/alchemist-example.png"  width="800" alt="drawing"/>
+![](/images/alchemist-example.png)
 
 
 Source code: [https://github.com/ealcobaca/alchemist-ia](https://github.com/ealcobaca/alchemist-ia)
@@ -82,9 +77,9 @@ Alchemist-Web
 -------------
 A Web based plataform for Alchemist.
 
-<img src="https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png"  width="800" alt="drawing"/>
+<img src="https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png"/>
 
-![](https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png)
+![example](https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png)
 
 Source code: [https://github.com/ealcobaca/alchemist-web](https://github.com/ealcobaca/alchemist-web)
 
