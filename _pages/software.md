@@ -69,6 +69,9 @@ The Alchemist uses a pool of optimization algorithms and machine learning models
 
 ![](/images/alchemist-example.png | width=800)
 
+<img src="(/images/alchemist-example.png"  width="800" alt="drawing"/>
+
+
 Source code: [https://github.com/ealcobaca/alchemist-ia](https://github.com/ealcobaca/alchemist-ia)
 
 
