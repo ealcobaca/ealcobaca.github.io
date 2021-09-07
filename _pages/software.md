@@ -2,8 +2,8 @@
 permalink: /software/
 title: "Software"
 gallery:
-  - url: https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/logo/logo-alchemist-periodic-table.png
-    image_path: https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/logo/logo-alchemist-periodic-table.png
+  - url: /images/logo-alchemist-periodic-table.png
+    image_path: /images/logo-alchemist-periodic-table.png
     alt: "abc"
     title: "abc"
 ---
@@ -65,7 +65,7 @@ The Alchemist uses a pool of optimization algorithms and machine learning models
 
 <img src="https://github.com/ealcobaca/Glass-Generator/blob/master/alchemist-2018.png" alt="drawing" width="800"/>
 
-![](https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/logo/logo-alchemist-periodic-table.png)
+![](/images/logo-alchemist-periodic-table.png | width=800)
 
 Source code: [https://github.com/ealcobaca/alchemist-ia](https://github.com/ealcobaca/alchemist-ia)
 
