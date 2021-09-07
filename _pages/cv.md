@@ -14,10 +14,10 @@ redirect_from:
 
 Education
 =========
-###  - (2023-today) PhD in Computer Science and Computational Mathematics, University of São Paulo
-###  - (2021-today) MBA in Project Management, University of São Paulo
-###  - (2013-2018) BSc inComputer Science, University of São Paulo
-
+- (2023-today) PhD in Computer Science and Computational Mathematics, University of São Paulo
+- (2021-today) MBA in Project Management, University of São Paulo
+- (2013-2018 )  BSc inComputer Science, University of São Paulo
+<br>
 
 Work experience
 ===============
@@ -45,7 +45,7 @@ Work experience
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
   * Developed and analyzed machine learning models for cancer diagnosis by using gene expression data.
-
+<br>
 
 Technical Skills
 ================
