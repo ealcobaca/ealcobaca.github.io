@@ -2,8 +2,8 @@
 permalink: /software/
 title: "Software"
 gallery:
-  - url: /images/logo-alchemist-periodic-table.png
-    image_path: /images/logo-alchemist-periodic-table.png
+  - url: software/logo-alchemist-periodic-table.png
+    image_path: software/logo-alchemist-periodic-table.png
     alt: "abc"
     title: "abc"
 ---
