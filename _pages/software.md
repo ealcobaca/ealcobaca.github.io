@@ -10,11 +10,6 @@ gallery:
     image_path: software/alchemist-example.png
     alt: "abcd"
     title: "abcd"
-gallery1:
-  - url: software/logo-alchemist-periodic-table.png
-    image_path: software/logo-alchemist-periodic-table.png
-    alt: "abc"
-    title: "abc"
 ---
 
 I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
@@ -86,7 +81,12 @@ A Web based plataform for Alchemist.
 
 <img src="https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png"  width="800" alt="drawing"/>
 
+![](https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png)
+
 Source code: [https://github.com/ealcobaca/alchemist-web](https://github.com/ealcobaca/alchemist-web)
+
+Source code: [https://github.com/ealcobaca/alchemist-web](https://github.com/ealcobaca/alchemist-web)
+
 
 
 GeneVis
@@ -96,5 +96,3 @@ It is a framework for visualization gene expression data, gene/micro-RNA/RNA sel
 Source code: [https://github.com/ealcobaca/GeneVis](https://github.com/ealcobaca/GeneVis)
 
 {% include gallery %}
-
-{% include gallery1 %}
