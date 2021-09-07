@@ -7,7 +7,7 @@ gallery:
     alt: "abc"
     title: "abc"
 ---
-IIIIIIIIII
+
 I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
 
 Below you'll find packages/software/scripts that I developed during my Ph.D.
