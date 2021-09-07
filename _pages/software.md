@@ -8,8 +8,8 @@ gallery:
     title: "abc"
   - url: software/alchemist-example.png
     image_path: software/alchemist-example.png
-    alt: "abc"
-    title: "abc"
+    alt: "abcd"
+    title: "abcd"
 ---
 
 I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
@@ -65,7 +65,7 @@ Alchemist
 ---------
 The Alchemist uses a pool of optimization algorithms and machine learning models to search for viable glass compositions for a given glass transition temperature (Tg) value.
 
-![](/images/logo-alchemist-periodic-table.png)
+![](/images/logo-alchemist-periodic-table.png | width=250)
 
 ![](/images/alchemist-example.png | width=800)
 
