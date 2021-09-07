@@ -5,7 +5,7 @@ title: "Software"
 
 I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
 
-Below you'll find packages/software/scripts that I developed during my Ph.D.
+Below you'll find packages/software/scripts that I developed (some of them were made in collaboration).
 
 pymfe: Python Meta-Feature Extractor
 ------------------------------------
@@ -26,9 +26,37 @@ meta-feature formalization aiming to make MtL reproducible.
 
 
 The installation process is similar to other packages available on pip:
-
 ```python
 pip install -U pymfe
+```
+
+Example of usage:
+```python
+# Load a dataset
+from sklearn.datasets import load_iris
+from pymfe.mfe import MFE
+
+data = load_iris()
+y = data.target
+X = data.data
+
+# Extract default measures
+mfe = MFE()
+mfe.fit(X, y)
+ft = mfe.extract()
+print(ft)
+
+# Extract general, statistical and information-theoretic measures
+mfe = MFE(groups=["general", "statistical", "info-theory"])
+mfe.fit(X, y)
+ft = mfe.extract()
+print(ft)
+
+# Extract all available measures
+mfe = MFE(groups="all")
+mfe.fit(X, y)
+ft = mfe.extract()
+print(ft)
 ```
 
 We write a great [Documentation](https://pymfe.readthedocs.io/en/latest/?badge=latest)
