@@ -32,7 +32,7 @@ pip install -U pymfe
 We write a great [Documentation](https://pymfe.readthedocs.io/en/latest/?badge=latest)
 to guide you on how to use the pymfe library.
 
-Source code: https://github.com/ealcobaca/pymfe
+Source code: [https://github.com/ealcobaca/pymfe](https://github.com/ealcobaca/pymfe)
 
 System for Recommending Machine Learning Algorithms for Gene Expression Data Analysis Using Meta-learning
 ---------------------------------------------------------------------------------------------------------
@@ -54,6 +54,9 @@ The Alchemist uses a pool of optimization algorithms and machine learning models
 <img src="https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/logo/logo-alchemist-periodic-table.png" alt="drawing" width="250"/>
 
 <img src="https://github.com/ealcobaca/Glass-Generator/blob/master/alchemist-2018.png" alt="drawing" width="800"/>
+
+![](https://github.com/ealcobaca/Glass-Generator/blob/master/alchemist-2018.png)
+
 
 
 Source code: https://github.com/ealcobaca/alchemist-ia
