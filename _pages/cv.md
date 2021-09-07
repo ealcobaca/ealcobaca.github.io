@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 =========
-* (2023-today) PhD in Computer Science and Computational Mathematics, University of São Paulo
-* (2021-today) MBA in Project Management, University of São Paulo
-* (2013-2018) BSc inComputer Science, University of São Paulo
+**  - (2023-today) PhD in Computer Science and Computational Mathematics, University of São Paulo **
+**  - (2021-today) MBA in Project Management, University of São Paulo **
+**  - (2013-2018) BSc inComputer Science, University of São Paulo **
 
 
 Work experience
@@ -67,4 +67,4 @@ Technical Skills
 <br>
 
 You can download my short CV [here](/files/ealcobaca_short_cv.pdf).
-<iframe src="/files/ealcobaca_short_cv.pdf" width="100%" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/ealcobaca_short_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
