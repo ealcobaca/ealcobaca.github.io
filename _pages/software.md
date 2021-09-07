@@ -77,8 +77,6 @@ Alchemist-Web
 -------------
 A Web based plataform for Alchemist.
 
-<img src="https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png"/>
-
 ![example](https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/alchemist-example.png)
 
 Source code: [https://github.com/ealcobaca/alchemist-web](https://github.com/ealcobaca/alchemist-web)
