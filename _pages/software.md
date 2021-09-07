@@ -31,3 +31,10 @@ pip install -U pymfe
 
 We write a great [Documentation](https://pymfe.readthedocs.io/en/latest/?badge=latest)
 to guide you on how to use the pymfe library.
+
+System for Recommending Machine Learning Algorithms for Gene Expression Data Analysis Using Meta-learning
+---------------------------------------------------------------------------------------------------------
+
+Cancer is one of the main causes of death today. Understanding its internal mechanisms and designing computational models capable of improving its diagnosis will have substantial benefits. New sequencing technologies, based on RNA-Seq, have made available a large amount of data that can be used for cancer diagnosis. As the manual analysis of these data is unfeasible, machine learning algorithms have been used successfully. However, each machine learning algorithm has an inductive bias, making it better suited to a given subset of problems. This project studies the use of strategies that improve the selection of classification algorithms for machine learning in the context of data classification. We investigate the potential of using meta-learning to associate characteristics present in a dataset with the most appropriate classification techniques to deal with them in identifying tumors through gene expression, using RNA-Seq and Microarray technology.
+
+Source: https://github.com/ealcobaca/rec-sys-to-cancer
