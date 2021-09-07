@@ -1,15 +1,6 @@
 ---
 permalink: /software/
 title: "Software"
-gallery:
-  - url: software/logo-alchemist-periodic-table.png
-    image_path: software/logo-alchemist-periodic-table.png
-    alt: "abc"
-    title: "abc"
-  - url: software/alchemist-example.png
-    image_path: software/alchemist-example.png
-    alt: "abcd"
-    title: "abcd"
 ---
 
 I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
@@ -88,5 +79,3 @@ GeneVis
 It is a framework for visualization gene expression data, gene/micro-RNA/RNA selection and tumor tissue classification using a perception-driven approach.
 
 Source code: [https://github.com/ealcobaca/GeneVis](https://github.com/ealcobaca/GeneVis)
-
-{% include gallery %}
