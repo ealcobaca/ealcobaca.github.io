@@ -6,6 +6,10 @@ gallery:
     image_path: software/logo-alchemist-periodic-table.png
     alt: "abc"
     title: "abc"
+  - url: software/alchemist-example.png
+    image_path: software/alchemist-example.png
+    alt: "abc"
+    title: "abc"
 ---
 
 I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
@@ -61,11 +65,9 @@ Alchemist
 ---------
 The Alchemist uses a pool of optimization algorithms and machine learning models to search for viable glass compositions for a given glass transition temperature (Tg) value.
 
-<img src="https://github.com/ealcobaca/alchemist-web/blob/master/frontend/src/assets/images/logo/logo-alchemist-periodic-table.png" alt="drawing" width="250"/>
+![](/images/logo-alchemist-periodic-table.png)
 
-<img src="https://github.com/ealcobaca/Glass-Generator/blob/master/alchemist-2018.png" alt="drawing" width="800"/>
-
-![](/images/logo-alchemist-periodic-table.png | width=800)
+![](/images/alchemist-example.png | width=800)
 
 Source code: [https://github.com/ealcobaca/alchemist-ia](https://github.com/ealcobaca/alchemist-ia)
 
