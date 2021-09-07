@@ -65,5 +65,5 @@ Technical Skills
 <br>
 <br>
 
-You can download my CV [here](/files/ealcobaca_cv.pdf).
-<iframe src="/files/ealcobaca_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download my short CV [here](/files/ealcobaca_short_cv.pdf).
+<iframe src="/files/ealcobaca_cv.pdf" width="100%" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
