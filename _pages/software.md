@@ -7,8 +7,8 @@ I develop software as part of my research and as a hobby. I love working on Open
 
 Below you'll find packages/software/scripts that I developed during my Ph.D.
 
-pymfe: Python Meta-Feature Extractor
-------------------------------------
+[pymfe: Python Meta-Feature Extractor](https://github.com/ealcobaca/pymfe)
+--------------------------------------------------------------------------
 
 [![Build Status](https://travis-ci.org/ealcobaca/pymfe.svg?branch=master)](https://travis-ci.org/ealcobaca/pymfe)
 [![codecov](https://codecov.io/gh/ealcobaca/pymfe/branch/master/graph/badge.svg)](https://codecov.io/gh/ealcobaca/pymfe)
