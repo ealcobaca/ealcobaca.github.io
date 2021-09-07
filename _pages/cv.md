@@ -14,36 +14,37 @@ redirect_from:
 
 Education
 =========
-* PhD in Computer Science and Computational Mathematics, University of São Paulo, 2023 (expected)
-* MBA in Project Management, University of São Paulo, São Paulo 2022 (expected)
-* BSc inComputer Science, University of São Paulo, 2018
+* (2023-today) PhD in Computer Science and Computational Mathematics, University of São Paulo
+* (2021-today) MBA in Project Management, University of São Paulo
+* (2013-2018) BSc inComputer Science, University of São Paulo
 
 
 Work experience
 ===============
-### Tutor of MBA in Data Science (2020-today) 
+
+### (2018-today) Research Assistant 
+  * University of São Paulo, Analytics Machine Learning Group, São Paulo, Brazil
+  * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
+  * Research and develop AutoML techniques for end-to-end machine learning pipeline design. Develop the meta-feature extractor package (pymfe) and AutoML packages. Collaborate in research and development to Center of Mathematical Sciences Applied to Industry (CEMEAI) at USP. Assist in teaching and managing undergraduate students in research. Collaborate with national and international researchers.
+
+### (2020-today) Tutor of MBA in Data Science  
   * University of São Paulo, São Paulo, Brazil
-  * Assisting in teaching data science, statistic, machine learning, deep learning, and other related courses
+  * Assist in teaching data science, statistics, machine learning, neural networks and deep architectures, massively parallel processing, and other related courses. Support students in learning and applying data science in real-world scenarios. Prepare and revise material for teaching.
 
-### Research Assistant (2018-today)
+### (2017) Research Assistant
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
-  * Researching and developing AutoML techniques for end-to-end machine learning pipeline design. Developing the meta-feature extractor package (pymfe) and AutoML packages.
+  * Developed and analyzed a meta-learning system (AutoML) to recommend machine learning algorithms for cancer diagnosis using gene expression data.
 
-### Research Assistant
-  * University of São Paulo, Machine Learning Group, São Paulo, Brazil
-  * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
-  * Developed some improvements in the meta-learning system for cancer diagnosis.
-
-### Visiting Researcher
+### (2016) Visiting Researcher
   * Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Porto, Portugal
   * Advisor: Prof. Dr. Carlos Soares
-  * Developed a meta-learning system for recommending suitable machine learning algorithms for cancer diagnosis.
+  * Developed and analyzed a meta-learning system (AutoML) for recommending suitable machine learning algorithms for multiple domains.
 
-### Research Assistant
+### (2015-2016) Research Assistant
   * University of São Paulo, Machine Learning Group, São Paulo, Brazil
   * Advisor: Prof. Dr. André Carlos P. L. F. de Carvalho
-  * Developed machine learning models for cancer diagnosis.
+  * Developed and analyzed machine learning models for cancer diagnosis by using gene expression data.
 
 
 Technical Skills
@@ -60,7 +61,7 @@ Technical Skills
 - AutoML (pipeline design, meta-learning, transfer learning, few-shot learning, NAS)
 
 ### Other
-- Git, Linux OS, SQL
+- Git, Linux OS, SQL, Jupyter
 
 <br>
 <br>
