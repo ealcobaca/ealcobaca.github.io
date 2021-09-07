@@ -88,8 +88,6 @@ A Web based plataform for Alchemist.
 
 Source code: [https://github.com/ealcobaca/alchemist-web](https://github.com/ealcobaca/alchemist-web)
 
-Source code: [https://github.com/ealcobaca/alchemist-web](https://github.com/ealcobaca/alchemist-web)
-
 
 
 GeneVis
