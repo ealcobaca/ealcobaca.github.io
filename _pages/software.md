@@ -107,3 +107,10 @@ GeneVis
 It is a framework for visualization gene expression data, gene/micro-RNA/RNA selection and tumor tissue classification using a perception-driven approach.
 
 Source code: [https://github.com/ealcobaca/GeneVis](https://github.com/ealcobaca/GeneVis)
+
+
+Starving Wars
+-------------
+This video is a demo of the Starving Wars project carried out in the Computer Graphics course at ICMC - University of São Paulo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RkCg9QKyszg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
