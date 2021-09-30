@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 =========
-- (2023-today) PhD in Computer Science and Computational Mathematics, University of São Paulo
+- (2018-today) PhD in Computer Science and Computational Mathematics, University of São Paulo
 - (2021-today) MBA in Project Management, University of São Paulo
 - (2013-2018)  BSc inComputer Science, University of São Paulo
 <br>
