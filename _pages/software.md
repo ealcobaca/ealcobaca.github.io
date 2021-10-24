@@ -3,7 +3,7 @@ permalink: /software/
 title: "Software"
 ---
 
-I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be available to everyone!
+I develop software as part of my research and as a hobby. I love working on Open Source projects. I believe that science must be open to everyone!
 
 Below you'll find packages/software/scripts that I developed (some of them were made in collaboration).
 
